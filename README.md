@@ -80,7 +80,7 @@ git clone https://github.com/AKALYA200211/gtm-questionnaire-rag.git
 cd GTM-questionnaire-rag
 
 Live App:
-https://gtm-questionnaire-rag.streamlit.app
+https://gtm-questionnaire-rag-bdce3ommp4mytwvvbmzpbx.streamlit.app/
 
 GitHub Repository:
 https://github.com/AKALYA200211/gtm-questionnaire-rag
