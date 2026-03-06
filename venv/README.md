@@ -76,8 +76,11 @@ Each generated answer includes at least one citation pointing to the retrieved d
 
 ### 1. Clone the repo
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/AKALYA200211/gtm-questionnaire-rag.git
 cd GTM-questionnaire-rag
-Add your live app link here.
 
-Add your GitHub repo link here.
+Live App:
+https://gtm-questionnaire-rag.streamlit.app
+
+GitHub Repository:
+https://github.com/AKALYA200211/gtm-questionnaire-rag
