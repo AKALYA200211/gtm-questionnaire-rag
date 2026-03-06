@@ -1,0 +1,9 @@
+PaySage follows multiple compliance and data protection standards.
+
+The platform supports GDPR compliance for European customers and provides Data Processing Agreements when required.
+
+SOC 2 certification is currently in progress with an expected completion timeline in Q4.
+
+Customer financial records are retained for five years in accordance with financial regulations.
+
+Customer data deletion requests are processed within 30 days of request approval.

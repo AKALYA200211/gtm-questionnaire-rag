@@ -1,0 +1,15 @@
+PaySage implements role-based access control (RBAC) to manage permissions.
+
+Users authenticate using email and password credentials. 
+Passwords are stored using bcrypt hashing.
+
+The system supports optional multi-factor authentication (MFA) through one-time passcodes sent to registered email addresses.
+
+Three main roles exist in the system:
+- Admin
+- Manager
+- Viewer
+
+Each role provides different levels of access following the principle of least privilege.
+
+User sessions automatically expire after 30 minutes of inactivity.

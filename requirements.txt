@@ -1,0 +1,9 @@
+streamlit
+sqlalchemy
+bcrypt
+pandas
+pdfplumber
+rank-bm25
+python-docx
+openai
+tqdm

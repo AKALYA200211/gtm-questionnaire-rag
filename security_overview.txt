@@ -1,0 +1,11 @@
+PaySage implements strong security practices to protect customer information.
+
+All customer data stored in the platform is encrypted at rest using AES-256 encryption. 
+Data transmitted between clients and servers is encrypted using TLS 1.2 or higher.
+
+The platform infrastructure is hosted on Amazon Web Services (AWS) in the Mumbai (ap-south-1) region.
+
+Security incidents are handled through a structured incident response plan. 
+The internal security team investigates incidents immediately and affected customers are notified within 72 hours when required.
+
+The platform also performs daily automated backups of production databases. Backups are retained for 30 days and stored securely in encrypted storage.

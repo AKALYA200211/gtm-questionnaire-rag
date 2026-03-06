@@ -1,0 +1,14 @@
+PaySage processes limited personal information required to operate the platform.
+
+Collected personal information includes:
+- User name
+- Email address
+- Billing address
+
+The platform does not sell customer data to third parties.
+
+Infrastructure and payment processing subprocessors include:
+- Amazon Web Services (AWS)
+- Stripe
+
+Access to sensitive data is restricted to authorized employees with approved roles.

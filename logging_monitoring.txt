@@ -1,0 +1,11 @@
+PaySage maintains detailed system logs for security and operational monitoring.
+
+The following activities are logged:
+- User login attempts
+- Data exports
+- Permission changes
+- API usage
+
+Logs are stored for 90 days and monitored through automated alerts using AWS CloudWatch.
+
+Security monitoring systems detect unusual login patterns and suspicious system behavior.
